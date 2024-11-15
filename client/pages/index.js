@@ -6,7 +6,8 @@ const index = () => {
   return (
     <div>
       <Header />
-      index
+      <span>Add search bar and range for posts</span>
+      <span>Post will be here from database</span>
     </div>
   );
 };
