@@ -1,3 +1,7 @@
 ll_env
 
 server/.env
+
+#Apps
+server/post/__pycache__
+server/post/migrations
