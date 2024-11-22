@@ -3,3 +3,9 @@ Website with a Django backend and Next Js front end, mostly refamiliarizing myse
 
 Simple App that connects users to view and post up vehicles for sell.
 Simple full stack app that can create users and profiles for users with cars and mods
+
+Needs to add:
+
+- user/account creation
+- search bar with location limiter
+- database
